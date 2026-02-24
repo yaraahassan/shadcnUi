@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const about = () => {
+export const About = () => {
   return (
     <div className='bg-blue-400'>about</div>
   )
